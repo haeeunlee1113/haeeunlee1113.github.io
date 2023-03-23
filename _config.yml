@@ -20,7 +20,7 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://haeeunlee1113.github.io/"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -102,6 +102,8 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
+ - title: GitHub
+    url: https://github.com/haeeunlee1113
+ - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
